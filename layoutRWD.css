@@ -1,0 +1,39 @@
+ #header li{
+  display: inline;}
+ #header {top:0px;
+ background-color:black;position: fixed;
+ color: white;
+   height: 40px;
+ width: 100%}
+ #login {text-align: right;}
+ #left{position:fixed;
+   background-color: #999999;
+   top: 40px;
+   width:15%;
+   margin-left: 0%;
+   height: 100%;
+   }
+ #center{padding-top:10%;
+   margin-left: 20%;
+   padding-top:30px;
+margin-right: 20px;
+   width: 60%;
+   margin-bottom: 100px;
+
+ }
+#right{position:fixed;
+  top:40px;
+  margin-right: 0px;
+  width: 15%;
+  right:0px;
+  padding-left:10px;
+  background-color: gray;
+  height: 100%;
+}
+footer{
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  background-color: gray;
+  text-align: center;
+}
